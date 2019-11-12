@@ -5,5 +5,6 @@ Raft一致性算法论文的中文翻译
 
 中文[翻译地址](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
-原理动画解释： [http://thesecretlivesofdata.com/raft/](http://thesecretlivesofdata.com/raft/)
-场景测试： [https://raft.github.io/](https://raft.github.io/)
+原理动画解释 [http://thesecretlivesofdata.com/raft/](http://thesecretlivesofdata.com/raft/)
+
+场景测试 [https://raft.github.io/](https://raft.github.io/)
